@@ -2,5 +2,5 @@
 using namespace std;
 
 int main() {
-    cout << "Workig...!";
+    cout << "Working...!";
 }
